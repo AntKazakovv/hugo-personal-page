@@ -29,6 +29,10 @@ icon = "insta_button.jpg"
 url = "https://pin.it/2MeM3JGqR"
 icon = "telegram.jpg"
 
+[[params.iconLink]]
+url = "test"
+icon = "https://ik.imagekit.io/ubp64igya/default-image.jpg?updatedAt=1747932074008"
+
 +++
 
 {{< qualities >}}
